@@ -13,7 +13,6 @@ int main()
     read(arr, n);
     sort(arr, n);
     display(arr, n);
-
     return 0;
 }
 
